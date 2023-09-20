@@ -1,0 +1,177 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mchus",
+      "name": "Mikhail Chus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2232148?v=4",
+      "profile": "https://github.com/mchus",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DavidJFowler",
+      "name": "DavidJFowler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10775668?v=4",
+      "profile": "https://github.com/DavidJFowler",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ericmason",
+      "name": "Eric Mason",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17150?v=4",
+      "profile": "http://ericmason.net",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "PeterDaveHello",
+      "name": "Peter Dave Hello",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3691490?v=4",
+      "profile": "https://www.peterdavehello.org/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "eht16",
+      "name": "Enrico Tröger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/617017?v=4",
+      "profile": "https://github.com/eht16",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "WhiteBahamut",
+      "name": "WhiteBahamut",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38832027?v=4",
+      "profile": "https://github.com/WhiteBahamut",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "braiinzz",
+      "name": "Manuel Habert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9280042?v=4",
+      "profile": "https://github.com/braiinzz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nicokaiser",
+      "name": "Nico Kaiser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/238631?v=4",
+      "profile": "https://kaiser.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "scholzie",
+      "name": "Chris Scholz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6815040?v=4",
+      "profile": "https://github.com/scholzie",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MohamedSahbi",
+      "name": "Mohamed Sahbi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25180044?v=4",
+      "profile": "http://mohamedsahbi.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "scp-mb",
+      "name": "scp-mb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52526733?v=4",
+      "profile": "https://github.com/scp-mb",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "uphlewis",
+      "name": "Harry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43346009?v=4",
+      "profile": "https://github.com/uphlewis",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bushong1",
+      "name": "Charles Bushong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236700?v=4",
+      "profile": "https://github.com/bushong1",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Capusjon",
+      "name": "Capusjon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21157144?v=4",
+      "profile": "https://github.com/Capusjon",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "adam-beck",
+      "name": "Adam Beck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6046654?v=4",
+      "profile": "http://codelobe.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aliceinwire",
+      "name": "Alice Ferrazzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107572?v=4",
+      "profile": "https://alicef.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "timopick",
+      "name": "Timo Pick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8996684?v=4",
+      "profile": "https://github.com/timopick",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "millerthegorilla",
+      "name": "James Stewart Miller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3696921?v=4",
+      "profile": "https://github.com/millerthegorilla",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "docker-clamav",
+  "projectOwner": "mko-x",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
