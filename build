@@ -54,7 +54,7 @@ tag="${REGISTRY}/${repo}:latest"
 git push origin ${VERSION}
 
 docker pull ${tag} || echo "Skipping docker pull"
-docker build . -t ${tag}
+docker build --platform linux/arm64 debian/buster/ -t ${tag}
 docker push ${tag}
 
 for extratag in  $(git rev-parse --abbrev-ref HEAD | sed -e 's/[^a-zA-Z0-9]/-/g') ${VERSION} $@
