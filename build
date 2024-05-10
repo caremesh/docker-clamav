@@ -18,8 +18,7 @@
 set -aex
 
 ## Base for our docker registry (cloud-based)
-# export REGISTRY=us.gcr.io/caremesh-bespin5
-export REGISTRY="us.gcr.io/caremesh-support"
+export REGISTRY="us-docker.pkg.dev/caremesh-support/artifacts"
 
 ## Make sure we are in the right directory.
 cd "$(dirname "${BASH_SOURCE[0]}")"
